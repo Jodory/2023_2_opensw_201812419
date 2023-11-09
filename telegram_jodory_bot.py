@@ -5,7 +5,8 @@ import platform
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import locale
 
-locale.setlocale(locale.LC_ALL, 'en_US.UTF-8') # 시스템에 따라 'ko_KR.utf8'과 같이 적절한 로케일로 변경해야 할 수 있습니다.
+# 시스템에 따라 'ko_KR.utf8'과 같이 적절한 로케일로 변경
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8') 
 
 async def push_alert(bot, chat_id):
     time_data = datetime.now().strftime("현재 시간은 %H:%M:%S 입니다.")
