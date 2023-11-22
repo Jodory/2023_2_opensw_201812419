@@ -103,7 +103,7 @@
     ```
 
 ## MASK R-CNN 실행 결과
-   ![Result of Balloon Execution Using Mask RCNN 1](baloon/baloon (1).png)
+   ![Result of Balloon Execution Using Mask RCNN 1](baloon/baloon_1.png)
    
    
    
