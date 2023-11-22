@@ -104,17 +104,6 @@
 
 ## MASK R-CNN 실행 결과
    ![Result of Balloon Execution Using Mask RCNN 1](baloon/baloon (1).png)
-   ![Result of Balloon Execution Using Mask RCNN 2](baloon/baloon (2).png)
-   ![Result of Balloon Execution Using Mask RCNN 3](baloon/baloon (3).png)
-   ![Result of Balloon Execution Using Mask RCNN 4](baloon/baloon (4).png)
-   ![Result of Balloon Execution Using Mask RCNN 5](baloon/baloon (5).png)
-   ![Result of Balloon Execution Using Mask RCNN 6](baloon/baloon (6).png)
-   ![Result of Balloon Execution Using Mask RCNN 7](baloon/baloon (7).png)
-   ![Result of Balloon Execution Using Mask RCNN 8](baloon/baloon (8).png)
-   ![Result of Balloon Execution Using Mask RCNN 9](baloon/baloon (9).png)
-   ![Result of Balloon Execution Using Mask RCNN 10](baloon/baloon (10).png)
-   ![Result of Balloon Execution Using Mask RCNN 11](baloon/baloon (11).png)
-   ![Result of Balloon Execution Using Mask RCNN 12](baloon/baloon (12).png)
-   ![Result of Balloon Execution Using Mask RCNN 13](baloon/baloon (13).png)
-   ![Result of Balloon Execution Using Mask RCNN 14](baloon/baloon (14).png)
+   
+   
    
