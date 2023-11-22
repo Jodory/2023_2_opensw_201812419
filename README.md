@@ -1,7 +1,9 @@
 
 # 2023_2_opensw_201812419_HW1
 
-본 프로젝트는 TensorFlow와 Docker를 활용하여 Mask R-CNN을 구현합니다. 아래의 단계별 지침을 따라 진행해 주세요.
+본 프로젝트는 경기대학교 오픈소스SW 강의의 HW1로 TensorFlow와 Docker를 활용하여 Mask R-CNN을 구현합니다. 
+
+아래의 단계별 지침을 따라 진행해 주세요.
 
 ## 환경 설정
 1. **Docker 이미지 가져오기**  
